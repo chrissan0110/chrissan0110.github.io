@@ -4,12 +4,26 @@
  #container {
     width: 960px;
     margin: auto;
-    border: 3px solid #cccccc;
+    border: 3px solid #dddddd;
     background-color: #FFFFFF;
 }
 h2,h4 {
     color: #4aaaa5;
 
+}
+p {
+    color: #777777;
+}
+header {
+    background-color: #ffffff;
+    border-color: #cccccc;
+}
+footer {
+    background-color: #666666;
+}
+h1 {
+    background-color: #4aaaa5;
+    color: white;
 }
  
  
